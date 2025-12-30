@@ -26,10 +26,18 @@ void postorderTraversal(Node* root){
     postorderTraversal(root->right);
     cout<<root->data<<" ";
 }
+void preorderTraversal(Node* root){
+    if(root==NULL) return;
+    cout<<root->data<<" ";
+    preorderTraversal(root->left);
+    preorderTraversal(root->right);
+}
 int main(){
     vector<int> preOrder={1,2,-1,-1,3,4,-1,-1,5,-1,-1};
     Node* root=buildtree(preOrder);
     cout<<"Tree created successfully"<<endl;
     postorderTraversal(root);
+    cout<<endl;
+    preorderTraversal(root);
     return 0;
 }
