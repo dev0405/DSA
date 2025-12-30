@@ -20,16 +20,16 @@ Node* buildtree(vector<int>& preorder){
     root->right=buildtree(preorder);
     return root;
 }
-void preorderTraversal(Node* root){
+void postorderTraversal(Node* root){
     if(root==NULL) return;
+    postorderTraversal(root->left);
+    postorderTraversal(root->right);
     cout<<root->data<<" ";
-    preorderTraversal(root->left);
-    preorderTraversal(root->right);
 }
 int main(){
     vector<int> preOrder={1,2,-1,-1,3,4,-1,-1,5,-1,-1};
     Node* root=buildtree(preOrder);
     cout<<"Tree created successfully"<<endl;
-    preorderTraversal(root);
+    postorderTraversal(root);
     return 0;
 }
