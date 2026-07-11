@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dev0405/DSA/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/dev0405/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dev0405/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/dev0405/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dev0405/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dev0405/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/dev0405/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dev0405/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dev0405/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/dev0405/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dev0405/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
