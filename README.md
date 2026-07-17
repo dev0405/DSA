@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dev0405/DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dev0405/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/dev0405/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dev0405/DSA/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/dev0405/DSA/tree/master/0455-assign-cookies) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dev0405/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/dev0405/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dev0405/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/dev0405/DSA/tree/master/0455-assign-cookies) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dev0405/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -79,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/dev0405/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dev0405/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
