@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dev0405/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dev0405/DSA/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/dev0405/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dev0405/DSA/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dev0405/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -45,21 +46,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dev0405/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev0405/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/dev0405/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/dev0405/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dev0405/DSA/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -87,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dev0405/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dev0405/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/dev0405/DSA/tree/master/0435-non-overlapping-intervals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
