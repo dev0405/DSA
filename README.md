@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dev0405/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/dev0405/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dev0405/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/dev0405/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dev0405/DSA/tree/master/0455-assign-cookies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dev0405/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev0405/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dev0405/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dev0405/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/dev0405/DSA/tree/master/0496-next-greater-element-i) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dev0405/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dev0405/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/dev0405/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/dev0405/DSA/tree/master/0451-sort-characters-by-frequency) |
