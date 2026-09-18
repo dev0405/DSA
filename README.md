@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dev0405/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dev0405/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/dev0405/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/dev0405/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dev0405/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dev0405/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dev0405/DSA/tree/master/0056-merge-intervals) |
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dev0405/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dev0405/DSA/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/dev0405/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dev0405/DSA/tree/master/0048-rotate-image) |
 | [2965-find-missing-and-repeated-values](https://github.com/dev0405/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
