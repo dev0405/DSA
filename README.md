@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dev0405/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/dev0405/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/dev0405/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/dev0405/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dev0405/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev0405/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/dev0405/DSA/tree/master/0189-rotate-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dev0405/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/dev0405/DSA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/dev0405/DSA/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/dev0405/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Queue
 |  |
