@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dev0405/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/dev0405/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dev0405/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dev0405/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dev0405/DSA/tree/master/0042-trapping-rain-water) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dev0405/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dev0405/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/dev0405/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/dev0405/DSA/tree/master/0125-valid-palindrome) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dev0405/DSA/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dev0405/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
