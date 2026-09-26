@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/dev0405/DSA/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/dev0405/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/dev0405/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/dev0405/DSA/tree/master/0459-repeated-substring-pattern) |
 ## Queue
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/dev0405/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/dev0405/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -298,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev0405/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/dev0405/DSA/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/dev0405/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
