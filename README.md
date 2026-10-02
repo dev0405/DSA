@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/dev0405/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dev0405/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dev0405/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/dev0405/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dev0405/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dev0405/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2965-find-missing-and-repeated-values](https://github.com/dev0405/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dev0405/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/dev0405/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dev0405/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/dev0405/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/dev0405/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/dev0405/DSA/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/dev0405/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -159,11 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dev0405/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/dev0405/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dev0405/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/dev0405/DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -334,4 +339,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dev0405/DSA/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dev0405/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dev0405/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dev0405/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
