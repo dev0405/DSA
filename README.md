@@ -351,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dev0405/DSA/tree/master/0912-sort-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dev0405/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
