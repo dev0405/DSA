@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dev0405/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dev0405/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dev0405/DSA/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/dev0405/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/dev0405/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/dev0405/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dev0405/DSA/tree/master/0455-assign-cookies) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/dev0405/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/dev0405/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dev0405/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/dev0405/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/dev0405/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/dev0405/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/dev0405/DSA/tree/master/0876-middle-of-the-linked-list) |
