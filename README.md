@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dev0405/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dev0405/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dev0405/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/dev0405/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dev0405/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dev0405/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dev0405/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dev0405/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/dev0405/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dev0405/DSA/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/dev0405/DSA/tree/master/0367-valid-perfect-square) |
 | [2965-find-missing-and-repeated-values](https://github.com/dev0405/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
