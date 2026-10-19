@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/dev0405/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dev0405/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dev0405/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/dev0405/DSA/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/dev0405/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/dev0405/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/dev0405/DSA/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/dev0405/DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/dev0405/DSA/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/dev0405/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/dev0405/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/dev0405/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dev0405/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/dev0405/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/dev0405/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/dev0405/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dev0405/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/dev0405/DSA/tree/master/0739-daily-temperatures) |
