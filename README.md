@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/dev0405/DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/dev0405/DSA/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dev0405/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/dev0405/DSA/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/dev0405/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/dev0405/DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/dev0405/DSA/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/dev0405/DSA/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dev0405/DSA/tree/master/0069-sqrtx) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/dev0405/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
