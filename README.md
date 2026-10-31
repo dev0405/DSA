@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dev0405/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/dev0405/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dev0405/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dev0405/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dev0405/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2865-beautiful-towers-i](https://github.com/dev0405/DSA/tree/master/2865-beautiful-towers-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/dev0405/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/dev0405/DSA/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dev0405/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/dev0405/DSA/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dev0405/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dev0405/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dev0405/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/dev0405/DSA/tree/master/0739-daily-temperatures) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dev0405/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2865-beautiful-towers-i](https://github.com/dev0405/DSA/tree/master/2865-beautiful-towers-i) |
 ## Monotonic Stack
 |  |
@@ -423,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/dev0405/DSA/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dev0405/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
